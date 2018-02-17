@@ -44,6 +44,7 @@ Syntax highlighting can be used with triple backticks, like so:
 ```javascript
 /* Some pointless Javascript */
 var rawr = ["r", "a", "w", "r"];
+console.log(rawr)
 ```
 
 Use two trailing spaces  
